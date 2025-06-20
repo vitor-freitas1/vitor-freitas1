@@ -2,10 +2,6 @@
   <img src="https://media1.tenor.com/m/c_28_81V_gQAAAAd/anime-code.gif" alt="Anime Coding" align="right" width="375" height="240" />
 </p>
 
-<div align="right">
-  <a href="README.md">English</a> | <a href="README-pt.md">Português</a>
-</div>
-
 <div align="center"><h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! fellow friend! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h2></div>
 
 <h3 align="center">I'm a QA Engineer, impressive, right? :sob:</h3>
