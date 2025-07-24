@@ -12,7 +12,7 @@
 
 - 🎓 I hold a Bachelor's degree in Computer Science.
 - 🌱 I am currently on the Data Science track with [Alura + Oracle Next Education](https://www.oracle.com/br/education/oracle-next-education/).
-- 🎯 Looking for new opportunities to apply and expand my skills.
+- 🖥️ I am currently working as a QA Engineer for Quality Digital
 - ⚡ **Fun fact:** The first computer "bug" was literally an insect. In 1947, a moth got trapped in a relay of the Harvard Mark II computer, causing a malfunction. The team "debugged" the system by removing the actual moth.
 
 <br>
